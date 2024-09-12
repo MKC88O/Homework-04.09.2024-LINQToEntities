@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework-04.09.2024-LINQToEntities", "Homework-04.09.2024-LINQToEntities\Homework-04.09.2024-LINQToEntities.csproj", "{71AEBC53-84B3-48E9-B884-2B995A9B3699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71AEBC53-84B3-48E9-B884-2B995A9B3699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AEBC53-84B3-48E9-B884-2B995A9B3699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AEBC53-84B3-48E9-B884-2B995A9B3699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AEBC53-84B3-48E9-B884-2B995A9B3699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1247CB2-1AC6-4697-BC7B-531DF8325417}
+	EndGlobalSection
+EndGlobal
